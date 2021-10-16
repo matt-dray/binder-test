@@ -1,0 +1,12 @@
+Type: Compendium
+Package: binder-test
+Title: Test RStudio In Your Browser
+Version: 0.0.1
+Authors@R: 
+    person("Matt", "Dray", "mwdray@gmail.com", role = c("aut", "cre"))
+Description: Launch Binder in yoru browser with the latest available R/Rstudio.
+License: What license it uses
+Depends: 
+    dplyr
+Encoding: UTF-8
+LazyData: true
